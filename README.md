@@ -48,7 +48,9 @@ The game keeps track of your score locally and lets you reset anytime.
 
 Clone this repository:
 
-git clone https://github.com/<your-username>/<repo-name>.git
+---bash
+git clone https://github.com/ParthKariya-Learner/Cricket-Using-JavaScript.git
+
 Open index.html in your browser.
 
 ---
