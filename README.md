@@ -27,30 +27,32 @@ The game keeps track of your score locally and lets you reset anytime.
 5. Click **Reset** to clear your score and start over.
 
 ---
+
+## 🌐 Live Demo
+
+🎯 **Play the Game Here:** [Cricket Game - Live Demo](https://parthkariya-learner.github.io/Cricket-Using-JavaScript/)
+
+---
+
 ## ⚡ Installation / Setup
 
 Clone this repository:
 
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
-
-Open `index.html` in your browser.
+Open index.html in your browser.
 
 Play and enjoy! 🎉
 
----
+📌 Future Improvements
 
-## 📌 Future Improvements
+🎨 Better UI/UX and animations
 
-- 🎨 **Better UI/UX and animations**
-- 📱 **Fully responsive design**
-- 🌐 **Online multiplayer mode**
+📱 Fully responsive design
 
----
+🌐 Online multiplayer mode
 
-## 🧑‍💻 Author
+🧑‍💻 Author
 
-**Parth Kariya**  
-💻 Built with ❤️ using **HTML, CSS, and JavaScript**
-
-
+Parth Kariya
+💻 Built with ❤️ using HTML, CSS, and JavaScript
