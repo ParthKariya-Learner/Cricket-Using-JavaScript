@@ -34,15 +34,7 @@ The game keeps track of your score locally and lets you reset anytime.
 
 ---
 
-## ⚡ Installation / Setup
-
-Clone this repository:
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-Open index.html in your browser.
-
-Play and enjoy! 🎉
+##  Play and enjoy! 🎉
 
 📌 Future Improvements
 
@@ -52,7 +44,15 @@ Play and enjoy! 🎉
 
 🌐 Online multiplayer mode
 
-🧑‍💻 Author
+## ⚡ Installation / Setup
 
-Parth Kariya
-💻 Built with ❤️ using HTML, CSS, and JavaScript
+Clone this repository:
+
+git clone https://github.com/<your-username>/<repo-name>.git
+Open index.html in your browser.
+
+---
+## 🧑‍💻 Author
+
+   Parth Kariya
+   💻 Built with ❤️ using HTML, CSS, and JavaScript
